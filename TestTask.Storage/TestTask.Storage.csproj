@@ -20,4 +20,8 @@
     <PackageReference Include="Z.EntityFramework.Extensions.EFCore" Version="5.13.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
 </Project>
